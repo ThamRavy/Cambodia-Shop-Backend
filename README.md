@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cambodia Shop API — Dart Frog + MongoDB + ABA PayWay
 
 A runnable starter backend for an e-commerce shop. It includes customer auth, public product browsing, admin-only product creation, server-priced order creation, stock decrement, order lookup, an ABA PayWay hosted-checkout adapter, Google Maps directions URL generation, Docker Compose and unit tests.
@@ -151,3 +152,6 @@ Tests cover geo-coordinate order/range, directions URLs, integer-cent arithmetic
 - Purchase endpoint: https://developer.payway.com.kh/purchase-14530820e0
 - Transaction details: https://developer.payway.com.kh/get-a-transaction-details-14530824e0
 - Google Maps Platform API key security: https://developers.google.com/maps/api-security-best-practices
+=======
+# Cambodia-Shop
+>>>>>>> origin/main
